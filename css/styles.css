@@ -1,0 +1,15 @@
+.panel-heading h3 {
+  text-align: center;
+}
+
+.deluxe {
+  background-color: gold;
+}
+
+.business {
+  background-color: crimson;
+}
+
+.economy {
+  background-color: lightblue;
+}
